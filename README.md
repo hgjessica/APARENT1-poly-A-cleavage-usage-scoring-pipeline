@@ -1,5 +1,5 @@
 # APARENT1-poly-A-cleavage-usage-scoring-pipeline
-Scores how much masking a short target site (for example the binding site of an antisense oligo) changes the poly(A) signal predicted by the original **APARENT1** model
+Scores how much masking a short target site (for example the binding site of an antisense oligo) changes the poly(A) signal predicted by the original APARENT1 model
 ([johli/aparent](https://github.com/johli/aparent)) in a gene region of interest. Three step
 scripts plus a shared `common.py` (keep them in one folder); everything project-specific lives
 in one JSON config.
